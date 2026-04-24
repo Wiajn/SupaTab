@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Only these are tracked (visible) in the repo:
+!.gitignore
+!lib/
+!lib/**
+!pubspec.yaml
+!pubspec.lock
